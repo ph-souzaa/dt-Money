@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-06-09T13:09:38.580Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 60,
+      "createdAt": "2023-06-09T13:09:30.580Z"
+    },
+    {
+      "id": 3,
+      "description": "Teste",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 1000,
+      "createdAt": "2023-06-09T13:09:30.580Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-06-24T17:18:56.877Z",
+      "id": 4
+    },
+    {
+      "description": "pastel",
+      "price": 5,
+      "category": "alimento",
+      "type": "outcome",
+      "createdAt": "2023-06-24T17:23:54.992Z",
+      "id": 5
+    },
+    {
+      "description": "Banana",
+      "price": 4,
+      "category": "alimento",
+      "type": "outcome",
+      "createdAt": "2023-06-24T17:34:20.346Z",
+      "id": 6
+    }
+  ]
+}
